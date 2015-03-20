@@ -1,5 +1,5 @@
 *.exe
 *.dll
-
+changelog.txt
 /bin
 !/bin/application.xml
