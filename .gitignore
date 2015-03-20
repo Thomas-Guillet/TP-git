@@ -2,4 +2,4 @@
 *.dll
 
 /bin
-!*.xml
+!/bin/application.xml
