@@ -1,4 +1,4 @@
-### application.bat - 2015 - Thomas Guillet ###
+### application.bat - 2015 - Benoit Merel ###
 
 version = "2"
 build_hour = "11H00"
